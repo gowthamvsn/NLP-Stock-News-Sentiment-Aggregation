@@ -15,7 +15,7 @@ import yfinance as yf
 TICKER_SYMBOL = "BE"
 DAYS_LOOKBACK = 5
 
-NEWSAPI_KEY = "YOUR_API_KEY"
+NEWSAPI_KEY = "*******"
 NEWSAPI_URL = "https://newsapi.org/v2/everything"
 
 # ==============================
